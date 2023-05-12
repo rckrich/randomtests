@@ -2,11 +2,11 @@
     
     //UNITY STUFF
     var buildUrl = "Build";
-    var loaderUrl = buildUrl + "/2.loader.js";
+    var loaderUrl = buildUrl + "/iOSBuild.loader.js";
     var config = {
-        dataUrl: buildUrl + "/2.data",
-        frameworkUrl: buildUrl + "/2.framework.js",
-        codeUrl: buildUrl + "/2.wasm",
+        dataUrl: buildUrl + "/iOSBuild.data",
+        frameworkUrl: buildUrl + "/iOSBuild.framework.js",
+        codeUrl: buildUrl + "/iOSBuild.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "NorthFace_Web",
