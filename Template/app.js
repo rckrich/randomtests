@@ -2,11 +2,11 @@
     
     //UNITY STUFF
     var buildUrl = "Build";
-    var loaderUrl = buildUrl + "/NorthFace.loader.js";
+    var loaderUrl = buildUrl + "/NewTest.loader.js";
     var config = {
-        dataUrl: buildUrl + "/NorthFace.data",
-        frameworkUrl: buildUrl + "/NorthFace.framework.js",
-        codeUrl: buildUrl + "/NorthFace.wasm",
+        dataUrl: buildUrl + "/NewTest.data",
+        frameworkUrl: buildUrl + "/NewTest.framework.js",
+        codeUrl: buildUrl + "/NewTest.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "RCK Games",
         productName: "NorthFace_Web",
